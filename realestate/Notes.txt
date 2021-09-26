@@ -1,0 +1,6 @@
+-home page
+-navbar:
+	home
+	about
+	contact
+	listings
